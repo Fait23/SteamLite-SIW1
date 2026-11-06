@@ -1,0 +1,10 @@
+PC,101,CyberStrike,59.99,8.5,16,65.5
+MOBILE,102,CandyCrush,0.0,9.1,true,150.0
+CONSOLE,103,Halo,69.99,9.5,Xbox Series X,false
+PC,104,FreeMMO,0.0,7.2,8,30.0
+MOBILE,105,GenshinImpact,0.0,9.0,true,3500.0
+CONSOLE,106,GodOfWar,49.99,9.8,PS5,true
+PC,107,Witcher3,29.99,9.9,8,50.0
+MOBILE,108,FlappyBird,0.0,6.5,false,25.5
+CONSOLE,109,Fifa24,69.99,7.0,PS5,false
+PC,110,Dota2,0.0,8.8,4,40.0
